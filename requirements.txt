@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+sentence-transformers
+huggingface_hub
+PyPDF2
+jinja2
